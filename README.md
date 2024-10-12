@@ -2,20 +2,18 @@
 
 As a Full Stack Developer with a Bachelor of Science in Computer Science from the University of Central Punjab, I bring a unique blend of academic rigor and hands-on technical experience. My skill set encompasses:
 
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="25"/> JavaScript  
-<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="25"/> TypeScript  
-<img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="25"/> PHP  
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="25"/> MySQL  
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="25"/> C++  
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="25"/> Python  
-<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="25"/> React  
-<img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" width="25"/> Next.js  
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="25"/> Node.js  
-<img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="25"/> Express.js  
-<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="25"/> MongoDB  
-<img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="25"/> Tailwind CSS  
-<img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="25"/> Bootstrap  
-<img src="https://img.icons8.com/color/48/000000/rest-api.png" alt="RESTful API" width="25"/> RESTful API development  
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-005EB8?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
 
 My academic and self-driven journey has been enriched by a series of professional certifications in key areas such as **MongoDB**, **Advanced React**, **Python**, and more. These certifications have broadened my technical knowledge and provided a solid foundation for applying these skills in real-world scenarios.
 
