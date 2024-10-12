@@ -14,6 +14,8 @@ I’m **Mohammad Aliyan**, a passionate **Full Stack Developer** specializing in
   <img src="https://img.shields.io/badge/MySQL-005EB8?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/C-A8B400?style=flat&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
 </p>
 
 ### 🔭 Currently Working On:
