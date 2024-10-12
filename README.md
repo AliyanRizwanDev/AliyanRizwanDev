@@ -1,25 +1,23 @@
 ## Hi there 👋
 
-As a Full Stack Developer with a Bachelor of Science in Computer Science from the University of Central Punjab, I bring a unique blend of academic rigor and hands-on technical experience. My skill set encompasses **JavaScript**, **TypeScript**, **PHP**, **MySQL**, **C++**, **Python**, **React**, **Next.js**, **Node.js**, **Express.js**, **MongoDB**, **Tailwind CSS**, **Bootstrap**, and **RESTful API development**, contributing to my comprehensive understanding of full-stack development.
+As a Full Stack Developer with a Bachelor of Science in Computer Science from the University of Central Punjab, I bring a unique blend of academic rigor and hands-on technical experience. My skill set encompasses:
+
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="25"/> JavaScript  
+<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="25"/> TypeScript  
+<img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="25"/> PHP  
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="25"/> MySQL  
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="25"/> C++  
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="25"/> Python  
+<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="25"/> React  
+<img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" width="25"/> Next.js  
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="25"/> Node.js  
+<img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="25"/> Express.js  
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="25"/> MongoDB  
+<img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="25"/> Tailwind CSS  
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="25"/> Bootstrap  
+<img src="https://img.icons8.com/color/48/000000/rest-api.png" alt="RESTful API" width="25"/> RESTful API development  
 
 My academic and self-driven journey has been enriched by a series of professional certifications in key areas such as **MongoDB**, **Advanced React**, **Python**, and more. These certifications have broadened my technical knowledge and provided a solid foundation for applying these skills in real-world scenarios.
-
-### ⚙️ Technologies & Tools:
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white&labelColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white&labelColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white&labelColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white&labelColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white&labelColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white&labelColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white&labelColor=white)
-![RESTful API](https://img.shields.io/badge/RESTful%20API-5D5D5D?style=flat-square&logo=api&logoColor=white&labelColor=white)
 
 ### 🌟 Highlights of My Projects and Contributions:
 - Developed numerous dynamic and responsive user interfaces using **React**, significantly enhancing user experience and engagement across various applications.
