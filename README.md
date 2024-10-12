@@ -2,13 +2,28 @@
 
 I'm **Mohammad Aliyan**, a passionate Full Stack Developer with a Bachelor of Science in Computer Science from the University of Central Punjab. I have a strong foundation in both front-end and back-end technologies, and I thrive on building dynamic and responsive web applications.
 
+### 🛠️ Technologies & Tools
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-005EB8?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
 ### 🔭 Currently Working On:
 - Leading the development of large-scale web applications that enhance user experiences and streamline complex processes.
 - Enhancing my skills in TypeScript, Next.js, and RESTful API development.
 - Contributing to various open-source projects to broaden my expertise.
 
 ### 🌱 Currently Learning:
-- Advanced concepts in **GraphQL** and **Docker** for better application management and deployment.
+- Advanced concepts in **GraphQL** for better application management and deployment.
 - Exploring **Machine Learning** with Python to integrate intelligent solutions into web applications.
 
 ### 👯 Looking to Collaborate On:
@@ -18,6 +33,9 @@ I'm **Mohammad Aliyan**, a passionate Full Stack Developer with a Bachelor of Sc
 ### 🤔 Ask Me About:
 - My experiences with managing and developing large-scale projects that require robust architecture and performance optimization.
 - Best practices in full-stack development, including performance optimization and user experience enhancements.
+
+### 📈 GitHub Stats
+![Aliyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliyanRizwanDev&show_icons=true&theme=radical)
 
 ### 📫 How to Reach Me:
 - Email: [aliyanrizwandev@gmail.com](mailto:aliyanrizwandev@gmail.com)
