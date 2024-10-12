@@ -9,7 +9,7 @@ My academic and self-driven journey has been enriched by a series of professiona
 - Engineered robust front-end projects that resulted in substantial improvements in performance metrics.
 - Played a key role in troubleshooting and resolving intricate technical issues, ensuring the smooth execution of various projects.
 - Contributed to and led multiple large-scale projects within my company, including a comprehensive **tutor-student course platform** and an extensive **home repair service application**, showcasing my ability to manage complex requirements and deliver high-quality results on time.
-- Successfully delivered a diverse portfolio of projects that showcase my expertise with the **MERN stack**, including:
+- Successfully delivered a diverse portfolio of projects that showcase my expertise with the **Different stack**, including:
   - Leading the development of a sophisticated **weather application** using **React** and the **Open Weather API**.
   - Implementing a robust **budget allocation application** with complex financial algorithms.
   - Creating a **Python-based machine usage tracker** that optimizes operational efficiency.
