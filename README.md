@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Profile Image](https://via.placeholder.com/150) <!-- Replace with your actual image URL -->
+
 I'm **Mohammad Aliyan**, a passionate Full Stack Developer with a Bachelor of Science in Computer Science from the University of Central Punjab. I have a strong foundation in both front-end and back-end technologies, and I thrive on building dynamic and responsive web applications.
 
 ### 🛠️ Technologies & Tools
@@ -33,9 +35,6 @@ I'm **Mohammad Aliyan**, a passionate Full Stack Developer with a Bachelor of Sc
 ### 🤔 Ask Me About:
 - My experiences with managing and developing large-scale projects that require robust architecture and performance optimization.
 - Best practices in full-stack development, including performance optimization and user experience enhancements.
-
-### 📈 GitHub Stats
-![Aliyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliyanRizwanDev&show_icons=true&theme=radical)
 
 ### 📫 How to Reach Me:
 - Email: [aliyanrizwandev@gmail.com](mailto:aliyanrizwandev@gmail.com)
