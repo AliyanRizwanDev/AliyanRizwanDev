@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Aliyan Rizwan**, a passionate Full Stack Developer with a Bachelor of Science in Computer Science from the University of Central Punjab. I have a strong foundation in both front-end and back-end technologies, and I thrive on building dynamic and responsive web applications.
+I'm **Mohammad Aliyan**, a passionate Full Stack Developer with a Bachelor of Science in Computer Science from the University of Central Punjab. I have a strong foundation in both front-end and back-end technologies, and I thrive on building dynamic and responsive web applications.
 
 ### 🔭 Currently Working On:
 - Leading the development of large-scale web applications that enhance user experiences and streamline complex processes.
