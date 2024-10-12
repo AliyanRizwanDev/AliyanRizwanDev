@@ -37,7 +37,7 @@ As I continue to expand my expertise across various technologies, I am enthusias
 
 ### 📫 How to Reach Me:
 - Email: [aliyanrizwandev@gmail.com](mailto:aliyanrizwandev@gmail.com)
-- LinkedIn: [Aliyan Rizwan](https://www.linkedin.com/in/aliyanrizwandev/)
+- LinkedIn: [Mohammad Aliyan](https://www.linkedin.com/in/aliyanrizwandev/)
 
 ### ⚡ Fun Fact:
 I love solving puzzles and challenges—whether they’re coding problems or brain teasers!
