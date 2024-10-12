@@ -4,6 +4,24 @@ As a Full Stack Developer with a Bachelor of Science in Computer Science from th
 
 My academic and self-driven journey has been enriched by a series of professional certifications in key areas such as **MongoDB**, **Advanced React**, **Python**, and more. These certifications have broadened my technical knowledge and provided a solid foundation for applying these skills in real-world scenarios.
 
+### ⚙️ Technologies & Tools:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![RESTful API](https://img.shields.io/badge/-RESTful%20API-5D5D5D?style=flat-square&logo=api&logoColor=white)
+
+
 ### 🌟 Highlights of My Projects and Contributions:
 - Developed numerous dynamic and responsive user interfaces using **React**, significantly enhancing user experience and engagement across various applications.
 - Engineered robust front-end projects that resulted in substantial improvements in performance metrics.
