@@ -92,8 +92,6 @@ University of Central Punjab · 2020-2024
 - **Email**: aliyanrizwandev@gmail.com
 - **LinkedIn**: linkedin.com/in/aliyanrizwandev
 - **Location**: Koblenz, Germany
-- **Status**: Open to full-time opportunities in Germany
-
 ---
 
 *Bridging research excellence with production-ready software engineering.*
