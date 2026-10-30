@@ -76,7 +76,7 @@ A role-based teacher portal demo for timetables, class lists, student records, p
 **Analysis and Performance Evaluation of Various Shortest Path Algorithms**  
 *IEEE INOCON 2024 · Lead author*
 
-Compared 8+ shortest-path algorithms on graphs with 10k+ nodes through simulations and performance analysis.
+Lead-authored an IEEE INOCON 2024 paper comparing seven shortest-path algorithms across two graph models: an urban road network and a global flight network.
 
 [Read the paper](https://doi.org/10.1109/INOCON60754.2024.10512150)
 
